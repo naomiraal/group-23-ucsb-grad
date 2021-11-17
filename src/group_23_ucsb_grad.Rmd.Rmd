@@ -28,5 +28,6 @@ ggplot(data = ucsb_grad, aes(x = year_abbr, y = domestic_enrollment)) +
   theme_minimal()
            
 ```
+
 **Figure 1.** Relationship between domestic graduate enrollment at UCSB and student ethnicity in the years 2008 - 2019. Student ethnicity depicted by column color. (Data: https://bap.ucsb.edu/institutional.research/campus.profiles/)
 
